@@ -1,1 +1,16 @@
-hello
+{
+  "updated_at": "2026-03-10T14:49:12Z",
+  "count": 1,
+  "servers": [
+    {
+      "id": "bd4d8c05",
+      "name": "VDS-PH",
+      "country": "Nederlands",
+      "city": "Amsterdam",
+      "ip": "89.124.78.123",
+      "port": 8374,
+      "ping": null,
+      "clients_online": 0
+    }
+  ]
+}

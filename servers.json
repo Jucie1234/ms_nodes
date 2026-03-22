@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T13:01:52Z",
+  "updated_at": "2026-03-22T13:46:09Z",
   "count": 13,
   "servers": [
     {
@@ -29,8 +29,8 @@
       "city": "Thessaloniki\t",
       "ip": "185.39.207.165",
       "port": 443,
-      "ping": 28,
-      "clients_online": 0
+      "ping": 25,
+      "clients_online": 1
     },
     {
       "id": "0b27f120",
@@ -39,7 +39,7 @@
       "city": "Kazakhstan",
       "ip": "38.180.206.51",
       "port": 443,
-      "ping": 84,
+      "ping": 78,
       "clients_online": 0
     },
     {
@@ -69,7 +69,7 @@
       "city": "Sandefjord",
       "ip": "89.185.81.16",
       "port": 443,
-      "ping": 18,
+      "ping": 17,
       "clients_online": 0
     },
     {
@@ -79,7 +79,7 @@
       "city": "Viana do Castelo",
       "ip": "31.129.22.220",
       "port": 443,
-      "ping": 37,
+      "ping": 36,
       "clients_online": 0
     },
     {
@@ -89,7 +89,7 @@
       "city": "Singapore",
       "ip": "176.97.65.96",
       "port": 443,
-      "ping": 2,
+      "ping": 4,
       "clients_online": 0
     },
     {
@@ -99,7 +99,7 @@
       "city": "Madrid",
       "ip": "194.87.45.71",
       "port": 443,
-      "ping": 4,
+      "ping": 2,
       "clients_online": 0
     },
     {
@@ -109,7 +109,7 @@
       "city": "Dubai",
       "ip": "172.86.76.140",
       "port": 443,
-      "ping": 3,
+      "ping": 2,
       "clients_online": 0
     },
     {

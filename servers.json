@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T22:01:57Z",
+  "updated_at": "2026-03-22T22:02:14Z",
   "count": 13,
   "servers": [
     {
@@ -99,7 +99,7 @@
       "city": "Madrid",
       "ip": "194.87.45.71",
       "port": 443,
-      "ping": null,
+      "ping": 303,
       "clients_online": 0
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T10:01:30Z",
+  "updated_at": "2026-03-24T10:45:52Z",
   "count": 13,
   "servers": [
     {
@@ -9,7 +9,7 @@
       "city": "Brussel",
       "ip": "113.30.152.220",
       "port": 443,
-      "ping": 314,
+      "ping": 10,
       "clients_online": 0
     },
     {
@@ -29,7 +29,7 @@
       "city": "Thessaloniki\t",
       "ip": "185.39.207.165",
       "port": 443,
-      "ping": 25,
+      "ping": 28,
       "clients_online": 0
     },
     {
@@ -39,7 +39,7 @@
       "city": "Kazakhstan",
       "ip": "38.180.206.51",
       "port": 443,
-      "ping": 70,
+      "ping": 76,
       "clients_online": 0
     },
     {
@@ -69,8 +69,8 @@
       "city": "Sandefjord",
       "ip": "89.185.81.16",
       "port": 443,
-      "ping": 17,
-      "clients_online": 0
+      "ping": 18,
+      "clients_online": 1
     },
     {
       "id": "beb87730",
@@ -109,7 +109,7 @@
       "city": "Dubai",
       "ip": "172.86.76.140",
       "port": 443,
-      "ping": 6,
+      "ping": 3,
       "clients_online": 0
     },
     {
@@ -129,7 +129,7 @@
       "city": "Chicago",
       "ip": "37.1.211.95",
       "port": 443,
-      "ping": 3,
+      "ping": 2,
       "clients_online": 0
     }
   ]

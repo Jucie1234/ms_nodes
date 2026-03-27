@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T18:01:57Z",
+  "updated_at": "2026-03-27T18:02:05Z",
   "count": 13,
   "servers": [
     {
@@ -39,7 +39,7 @@
       "city": "Kazakhstan",
       "ip": "38.180.206.51",
       "port": 443,
-      "ping": 75,
+      "ping": 72,
       "clients_online": 0
     },
     {
@@ -59,7 +59,7 @@
       "city": "Netherlands",
       "ip": "185.93.106.140",
       "port": 443,
-      "ping": 7,
+      "ping": 3,
       "clients_online": 0
     },
     {

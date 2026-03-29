@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-03-29T06:02:00Z",
-  "count": 12,
+  "updated_at": "2026-03-29T06:03:21Z",
+  "count": 13,
   "servers": [
+    {
+      "id": "681394a0",
+      "name": "VPS Brussel",
+      "country": "Belgium",
+      "city": "Brussel",
+      "ip": "113.30.152.220",
+      "port": 443,
+      "ping": 4,
+      "clients_online": 0
+    },
     {
       "id": "6d0f09c9",
       "name": "VDS-PH-3",
@@ -29,7 +39,7 @@
       "city": "Kazakhstan",
       "ip": "38.180.206.51",
       "port": 443,
-      "ping": 73,
+      "ping": 70,
       "clients_online": 0
     },
     {
@@ -49,7 +59,7 @@
       "city": "Netherlands",
       "ip": "185.93.106.140",
       "port": 443,
-      "ping": 2,
+      "ping": 3,
       "clients_online": 0
     },
     {
@@ -79,8 +89,8 @@
       "city": "Singapore",
       "ip": "176.97.65.96",
       "port": 443,
-      "ping": 2,
-      "clients_online": 1
+      "ping": 1,
+      "clients_online": 0
     },
     {
       "id": "22ccb905",
@@ -89,7 +99,7 @@
       "city": "Madrid",
       "ip": "194.87.45.71",
       "port": 443,
-      "ping": 4,
+      "ping": 1,
       "clients_online": 0
     },
     {

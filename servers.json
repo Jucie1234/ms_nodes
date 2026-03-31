@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-03-31T12:45:44Z",
-  "count": 13,
+  "updated_at": "2026-03-31T13:01:37Z",
+  "count": 3,
   "servers": [
-    {
-      "id": "681394a0",
-      "name": "VPS Brussel",
-      "country": "Belgium",
-      "city": "Brussel",
-      "ip": "113.30.152.220",
-      "port": 443,
-      "ping": 4,
-      "clients_online": 0
-    },
     {
       "id": "6d0f09c9",
       "name": "VDS-PH-3",
@@ -20,86 +10,6 @@
       "ip": "45.59.119.224",
       "port": 443,
       "ping": 32,
-      "clients_online": 0
-    },
-    {
-      "id": "a93538d0",
-      "name": "VPS Thessaloniki",
-      "country": "Greece",
-      "city": "Thessaloniki\t",
-      "ip": "185.39.207.165",
-      "port": 443,
-      "ping": 34,
-      "clients_online": 0
-    },
-    {
-      "id": "0b27f120",
-      "name": "VPS Kazakhstan",
-      "country": "Kazakhstan",
-      "city": "Kazakhstan",
-      "ip": "38.180.206.51",
-      "port": 443,
-      "ping": 70,
-      "clients_online": 0
-    },
-    {
-      "id": "14512954",
-      "name": "VDS-PH",
-      "country": "Nederlands",
-      "city": "Amsterdam",
-      "ip": "89.124.78.123",
-      "port": 443,
-      "ping": 2,
-      "clients_online": 1
-    },
-    {
-      "id": "66a18bbf",
-      "name": "VPS Netherlands",
-      "country": "Netherlands",
-      "city": "Netherlands",
-      "ip": "185.93.106.140",
-      "port": 443,
-      "ping": 8,
-      "clients_online": 0
-    },
-    {
-      "id": "58608c1d",
-      "name": "VPS Sandefjord",
-      "country": "Norway",
-      "city": "Sandefjord",
-      "ip": "89.185.81.16",
-      "port": 443,
-      "ping": 17,
-      "clients_online": 1
-    },
-    {
-      "id": "beb87730",
-      "name": "VPS Viana do Castelo",
-      "country": "Portugal",
-      "city": "Viana do Castelo",
-      "ip": "31.129.22.220",
-      "port": 443,
-      "ping": 36,
-      "clients_online": 0
-    },
-    {
-      "id": "bc5dce2a",
-      "name": "VPS Singapore",
-      "country": "Singapore",
-      "city": "Singapore",
-      "ip": "176.97.65.96",
-      "port": 443,
-      "ping": 1,
-      "clients_online": 0
-    },
-    {
-      "id": "22ccb905",
-      "name": "VPS Madrid",
-      "country": "Spain",
-      "city": "Madrid",
-      "ip": "194.87.45.71",
-      "port": 443,
-      "ping": 1,
       "clients_online": 0
     },
     {
@@ -120,16 +30,6 @@
       "ip": "104.194.144.172",
       "port": 443,
       "ping": 2,
-      "clients_online": 0
-    },
-    {
-      "id": "e8dfb266",
-      "name": "VPS USA",
-      "country": "USA",
-      "city": "Chicago",
-      "ip": "37.1.211.95",
-      "port": 443,
-      "ping": 7,
       "clients_online": 0
     }
   ]

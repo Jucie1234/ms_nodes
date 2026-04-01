@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T03:02:10Z",
+  "updated_at": "2026-04-01T03:02:36Z",
   "count": 13,
   "servers": [
     {
@@ -129,7 +129,7 @@
       "city": "Chicago",
       "ip": "37.1.211.95",
       "port": 443,
-      "ping": 3,
+      "ping": 2,
       "clients_online": 0
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T12:01:42Z",
+  "updated_at": "2026-04-01T12:01:56Z",
   "count": 13,
   "servers": [
     {
@@ -59,7 +59,7 @@
       "city": "Netherlands",
       "ip": "185.93.106.140",
       "port": 443,
-      "ping": 3,
+      "ping": 7,
       "clients_online": 0
     },
     {

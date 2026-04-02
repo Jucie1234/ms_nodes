@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T00:02:01Z",
+  "updated_at": "2026-04-02T00:02:05Z",
   "count": 13,
   "servers": [
     {
@@ -89,7 +89,7 @@
       "city": "Singapore",
       "ip": "176.97.65.96",
       "port": 443,
-      "ping": null,
+      "ping": 1,
       "clients_online": 0
     },
     {

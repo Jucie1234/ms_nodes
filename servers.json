@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T16:02:11Z",
+  "updated_at": "2026-04-02T16:02:29Z",
   "count": 13,
   "servers": [
     {
@@ -79,7 +79,7 @@
       "city": "Viana do Castelo",
       "ip": "31.129.22.220",
       "port": 443,
-      "ping": 41,
+      "ping": 40,
       "clients_online": 0
     },
     {

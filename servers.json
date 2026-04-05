@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T21:01:40Z",
+  "updated_at": "2026-04-05T21:02:05Z",
   "count": 13,
   "servers": [
     {
@@ -29,7 +29,7 @@
       "city": "Thessaloniki\t",
       "ip": "185.39.207.165",
       "port": 443,
-      "ping": 25,
+      "ping": 28,
       "clients_online": 0
     },
     {
@@ -49,7 +49,7 @@
       "city": "Amsterdam",
       "ip": "89.124.78.123",
       "port": 443,
-      "ping": 6,
+      "ping": null,
       "clients_online": 0
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T09:01:45Z",
+  "updated_at": "2026-04-05T09:01:49Z",
   "count": 13,
   "servers": [
     {
@@ -49,7 +49,7 @@
       "city": "Amsterdam",
       "ip": "89.124.78.123",
       "port": 443,
-      "ping": 5,
+      "ping": null,
       "clients_online": 0
     },
     {
@@ -59,8 +59,8 @@
       "city": "Netherlands",
       "ip": "185.93.106.140",
       "port": 443,
-      "ping": 3,
-      "clients_online": 0
+      "ping": 6,
+      "clients_online": 1
     },
     {
       "id": "58608c1d",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06T01:01:51Z",
+  "updated_at": "2026-04-06T01:45:56Z",
   "count": 13,
   "servers": [
     {
@@ -9,7 +9,7 @@
       "city": "Brussel",
       "ip": "113.30.152.220",
       "port": 443,
-      "ping": 7,
+      "ping": 5,
       "clients_online": 0
     },
     {
@@ -39,7 +39,7 @@
       "city": "Kazakhstan",
       "ip": "38.180.206.51",
       "port": 443,
-      "ping": 68,
+      "ping": 71,
       "clients_online": 0
     },
     {
@@ -79,7 +79,7 @@
       "city": "Viana do Castelo",
       "ip": "31.129.22.220",
       "port": 443,
-      "ping": 42,
+      "ping": 36,
       "clients_online": 0
     },
     {
@@ -99,8 +99,8 @@
       "city": "Madrid",
       "ip": "194.87.45.71",
       "port": 443,
-      "ping": 1,
-      "clients_online": 1
+      "ping": null,
+      "clients_online": 0
     },
     {
       "id": "bdc5fb8c",

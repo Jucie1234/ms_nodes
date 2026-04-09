@@ -1,11 +1,5 @@
 {
-  "updated_at": "2026-04-08T21:52:01Z",
-  "count": 1,
-  "nodes": [
-    {
-      "ip": "54.196.186.100",
-      "port": 443,
-      "country": "US"
-    }
-  ]
+  "updated_at": "2026-04-09T14:03:54Z",
+  "count": 0,
+  "nodes": []
 }

@@ -1,9 +1,3 @@
 {
-  "servers": [
-    {
-      "ip": "209.250.224.32",
-      "port": 443,
-      "country": "UK"
-    }
-  ]
+  "servers": []
 }
